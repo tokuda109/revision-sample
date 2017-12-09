@@ -1,0 +1,14 @@
+{
+  "clients": [
+    {
+      "key": "sample",
+      "module": "revision_gcs.GCSClient",
+      "local_path": "data",
+      "remote_path": "gs://revision-sample",
+      "revision_file": "CHANGELOG.md",
+      "options": {
+        "key_file": "gcs-key-file.json"
+      }
+    }
+  ]
+}
