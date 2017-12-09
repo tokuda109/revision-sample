@@ -1,0 +1,2 @@
+revision==0.0.8
+revision-gcs==0.0.6
